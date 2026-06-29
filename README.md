@@ -2,7 +2,7 @@
 
 > The digital infrastructure of healthcare — electronic medical records, clinical decision support, telemedicine, scheduling, wearables and more.
 >
-> **Founder:** Thiago Schuber — *Father of Lis and Nina* · **Co-Founder:** Juliana Stocki · **Site:** [med-ai.live](https://med-ai.live)
+> **Founder:** Thiago Schuber — *Father of Lis and Nina* · **Site:** [med-ai.live](https://med-ai.live)
 
 > ⚠️ **Proprietary software — closed source. All rights reserved.**
 > This page is a **public overview only**. The source code is **private** and is **not** available for installation, cloning, or distribution.
@@ -58,7 +58,5 @@ Full dossier: **[med-ai.live/med-ai-dossie.md](https://med-ai.live/med-ai-dossie
 ---
 
 **Thiago Schuber** — Founder, Med-AI · *Father of Lis and Nina* 💙
-
-**Juliana Stocki** — Co-Founder, Med-AI
 
 *© Thiago Schuber / Med-AI — all rights reserved. Proprietary, closed-source software. Decision-support features may qualify as a medical device (ANVISA/SaMD) — use per applicable regulation.*

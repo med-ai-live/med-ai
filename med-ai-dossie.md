@@ -1,7 +1,7 @@
 # Med-AI · Global Health OS
 ## Project Dossier — Current Status, Roadmap and Projections
 
-**Author / Owner:** Thiago Schuber — Founder · *Father of Lis and Nina* · Juliana Stocki — Co-Founder
+**Author / Owner:** Thiago Schuber — Founder · *Father of Lis and Nina*
 **Contact:** hello@med-ai.live
 **Domain:** med-ai.live
 **Generated on:** June 2, 2026
